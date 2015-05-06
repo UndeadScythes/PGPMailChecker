@@ -41,3 +41,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+target
+
+nb-configuration.xml
+nbactions.xml
